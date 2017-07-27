@@ -6,6 +6,8 @@ date: 2017-07-26
 comments: false
 ---
 
+<img src="/assets/img/photo.jpg" alt="izmr" style="width:250px"/>
+
 ## 自己紹介
 * Webサービスバックエンドエンジニアからキャリアをスタート
 * 技術の強みを活かしつつ、組織や事業にも貢献できるマルチスタック人材を目指しています
