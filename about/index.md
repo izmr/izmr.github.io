@@ -9,18 +9,27 @@ comments: false
 <img src="/assets/img/photo.jpg" alt="izmr" style="width:250px"/>
 
 ## 自己紹介
-* Webサービスバックエンドエンジニアからキャリアをスタート
-* 技術の強みを活かしつつ、組織や事業にも貢献できるマルチスタック人材を目指しています
-* システム開発の他、事業の壁打ち(ディスカッション)なども含めてスポットでお手伝いできます
+[ギバーテイクオール株式会社](http://givertakeall.co.jp/)のCTOを担当しています(2019年現在)。<br/>
+「Webサービスエンジニア」と「新規事業プロセスコンサルタント」の二軸を専門としています。
+
+Webサービスエンジニアとしては、インフラ(AWS, GCP)・DevOps・バックエンド(特にRails)周りが強みです。<br/>
+また、開発案件のプロジェクトマネジメントも可能です。
+
+* [恋愛・婚活マッチングアプリPairs](https://www.pairs.lv/)
+* [注文住宅の無料相談窓口auka](https://auka.jp/)
+
+などのフルスクラッチ開発案件のPMを担当しています。
+
+「新規事業プロセスコンサルタント」としては、[リーンスタートアップ](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97)を中心とした事業開発プロセスをもとに新規事業開発を支援します。現職でもリーンスタートアップに基づいた事業開発を行っています。
 
 ## 略歴
-* 1986年 大阪で誕生
-* 2004年 同志社大学で情報工学を履修、IT系事業会社のインターンシップを数社経験
+* 2004年 同志社大学で情報工学を履修
 * 2010年 楽天株式会社 エンジニアとして入社
-* 以降、事業会社を数社経験しながらリードエンジニアとしてシステム開発を牽引
-* 2015年 株式会社エウレカでエンジニアマネージャーに就任
+  * 以降、事業会社をエンジニアとして数社経験
+* 2015年 株式会社エウレカでエンジニアマネージャー就任
+* 2017年 ギバーテイクオール株式会社CTO就任
 
-## スキル
+## 開発スキル
 * 使用言語
   * Ruby (on Rails 2〜4系)
     * 利用経験5年以上
@@ -43,10 +52,10 @@ comments: false
     * バックエンド(nodejs)からフロントエンドまで広く利用
   * その他
     * SQLやbashなど運用に必要な技術諸々
-* 開発マネジメント関連
+* マネジメント関連
   * アジャイル開発
     * スクラムマスターとして開発現場のボトルネック解消などコーチ的な動きも可能です
-  * 要件定義
+  * 事業開発関連
     * [ユーザーストーリーマッピング](http://qiita.com/Koki_jp/items/6aebc73bedd0a932dcb8)などを利用して要求分析
     * [デザイン思考](http://blog.btrax.com/jp/2015/05/01/design-thinking1/)によるプロトタイピング
     * [LeanDiagram](https://www.slideshare.net/tatsuyaizumori/leandiagramproblemsolutionfit)を用いて新規事業のProblem/Solution Fitにおける妥当性の検証
@@ -60,14 +69,6 @@ comments: false
 * 2015年 株式会社エウレカ 年間MVP受賞
 * 2016年 CodeIQ 実力判定Aランク・Ruby上級スキルを取得
 
-<!--
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
--->
-
 ## メディア・外部資料
 * [エンジニアの価値はマーケットが決める！全社員がサービスの成長に向き合うための組織作りとは](https://seleck.cc/611)
 * [話題の「動画広告」普及のカギは？ 関連サービス『VeleT』＆『Viibar』に聞く](http://type.jp/et/log/article/digi-marketing-douga)
@@ -77,4 +78,3 @@ comments: false
 * [Facebook](https://www.facebook.com/tatsuya.izumori)
 * [Github](https://github.com/izmr)
 * [SlideShare](https://www.slideshare.net/tatsuyaizumori)
-* [Wantedly](https://www.wantedly.com/users/16476)
